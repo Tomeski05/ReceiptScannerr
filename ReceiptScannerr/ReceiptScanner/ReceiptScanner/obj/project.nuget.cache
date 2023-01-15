@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/394wwNpWGaJ4uVkWdsV8wpxbXYGsz128GzvB0GIzFNmiPnykpSz6E6imrIYXYDzIvfnq/Zz5v7QVhKbGiZx8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomes\\OneDrive\\Desktop\\ReceiptScannerr\\ReceiptScanner\\ReceiptScanner\\ReceiptScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomes\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
